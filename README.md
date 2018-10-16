@@ -18,4 +18,4 @@
 
 ## Results
 Front Page:
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_1.PNG)
