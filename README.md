@@ -46,5 +46,5 @@ Result 2:
 
 ![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_5.png)
 
-##Conclusion
+## Conclusion
 As shown in results,we are getting presice OCR results for cropped images.
