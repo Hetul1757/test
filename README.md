@@ -23,14 +23,16 @@ Front Page 1:
 Input Image 1:
 ![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_1.PNG)
 
+
 Cropped Image 1:
 ![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_7.png)
 
+
 Result 1:
-![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_2.PNG)
+![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_3.png)
 
 Front page 2:
-![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_3.png)
+![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_2.PNG)
 
 Input Image 2:
 ![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_4.PNG)
@@ -39,6 +41,7 @@ Cropped Image 2:
 ![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_8.png)
 
 Result 2:
-![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_5.png)
-
 ![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_6.png)
+
+
+![alt text](https://github.com/Hetul1757/test/blob/master/Results/OCR_5.png)
